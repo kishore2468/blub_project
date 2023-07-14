@@ -1,0 +1,14 @@
+body{
+    background: black;
+}
+h1{
+    text-align: center;
+    color: #e91010;
+  
+    margin: auto;
+}
+#bulb
+{
+    padding-top: 5%;
+   
+}
